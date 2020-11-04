@@ -1,0 +1,20 @@
+html, body, div,input,button,
+h1, h2, h3,p,img, ul, li,label,footer,
+nav, section{
+    margin: 0;
+	padding: 0;
+    border: 0;
+    box-sizing: border-box;
+	font-size: 20px;
+    font: inherit;
+    font-family: 'Roboto', sans-serif;
+}
+body
+{
+    overflow-x: hidden;
+}
+input,button
+{
+   background:transparent; 
+   border-radius: 8px;
+}

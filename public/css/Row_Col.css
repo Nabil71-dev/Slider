@@ -1,0 +1,21 @@
+.container
+{
+    width:82%;
+    margin:0rem auto; 
+}
+.row
+{
+    display:flex;
+    flex-wrap:wrap;
+}
+.col
+{
+    flex-basis:0;
+    margin-right: .3vh;
+    flex-grow:0;
+    flex-shrink: 0;
+}
+.section_title
+{
+    flex-basis: 99.8%; 
+}
